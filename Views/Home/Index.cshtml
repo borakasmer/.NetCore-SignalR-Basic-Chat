@@ -1,0 +1,23 @@
+﻿
+    <head>
+        <script src="scripts/signalr-client-1.0.0-alpha2-final.min.js"></script>
+        <script>
+            let connection = new signalR.HubConnection('/chat');
+
+            connection.on('send', data => {
+                alert(data);
+            });   
+
+           connection.on('send2', data => {
+                alert(data);
+            });  
+
+            connection.on('SetConnectionId', data => {
+                console.log("ConnectionID : "+data);
+            }); 
+
+            connection.start()
+             .then(() => connection.invoke('send', 'Hello'));
+            
+        </script>
+    </head>

@@ -1,0 +1,10 @@
+/Users/borakasmer/coreSignalR/signalRCore/bin/Debug/netcoreapp2.0/signalRCore.deps.json
+/Users/borakasmer/coreSignalR/signalRCore/bin/Debug/netcoreapp2.0/signalRCore.runtimeconfig.json
+/Users/borakasmer/coreSignalR/signalRCore/bin/Debug/netcoreapp2.0/signalRCore.runtimeconfig.dev.json
+/Users/borakasmer/coreSignalR/signalRCore/bin/Debug/netcoreapp2.0/signalRCore.dll
+/Users/borakasmer/coreSignalR/signalRCore/bin/Debug/netcoreapp2.0/signalRCore.pdb
+/Users/borakasmer/coreSignalR/signalRCore/obj/Debug/netcoreapp2.0/signalRCore.csproj.CoreCompileInputs.cache
+/Users/borakasmer/coreSignalR/signalRCore/obj/Debug/netcoreapp2.0/signalRCore.AssemblyInfoInputs.cache
+/Users/borakasmer/coreSignalR/signalRCore/obj/Debug/netcoreapp2.0/signalRCore.AssemblyInfo.cs
+/Users/borakasmer/coreSignalR/signalRCore/obj/Debug/netcoreapp2.0/signalRCore.dll
+/Users/borakasmer/coreSignalR/signalRCore/obj/Debug/netcoreapp2.0/signalRCore.pdb
